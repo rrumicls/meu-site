@@ -19,3 +19,9 @@
     width: 200px;
     height: 200px;
 }
+
+body {
+   display: flex;
+   flex-direction: column;
+    min-height: 100hv;
+}

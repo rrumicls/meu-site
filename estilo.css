@@ -11,7 +11,7 @@
 }
 
 .cartao {
-    width: 260px;
+    width: 60px;
     height: 200px;
 }
 
@@ -21,8 +21,8 @@ width: 50%;
 
 .cartao-imagem {
 
-    width: 9000px;
-    height: 9000px;
+    width: 100px;
+    height: 100px;
 }
 
 body {

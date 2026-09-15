@@ -16,15 +16,15 @@
 }
 
 .cartao-frente, .cartao-verso{
- width: 260px;
-    height: 100px;
+    width: 260px;
+    height: 200px;
  
 }
 
 .cartao-imagem {
 
     width: 260px;
-    height: 100px;
+    height: 200px;
 }
 
 body {

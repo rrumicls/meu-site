@@ -5,7 +5,7 @@ padding: 0;
 }
 
 .cabecalho { 
-  background-color: hsl(234, 96%, 46%); 
+  background-color: #054ce7; 
   padding: 15px 25px; 
   display: flex; 
   justify-content: space-between; 
@@ -26,7 +26,7 @@ body {
   display: flex; 
   flex-direction: column; 
   min-height: 100vh; 
-  background-color: hsl(239, 100%, 35%); 
+  background-color: #ffffff; 
 }
 main { 
   flex: 1; 
@@ -37,7 +37,7 @@ align-items: center;
 
 
 footer { 
-  background-color: #0000009c; 
+  background-color: #8d0f0f9c; 
   padding: 15px 25px; 
   color: #e7e8eb; 
 }
